@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:36,AL: ART Sport 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/23143
+#EXTINF:0,AL: ART Sport 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/23146
+#EXTINF:0,AL: ART Sport 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/40061
+#EXTINF:0,AL: Kujtesa Sport 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/6718
+#EXTINF:0,AL: Kujtesa Sport 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/3640
+#EXTINF:0,AL: Kujtesa Sport 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/8297
+#EXTINF:0,AL: Kujtesa Sport 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/15568
+#EXTINF:0,AL: SUPER SPORT 1 NEWS
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/225312
+#EXTINF:0,AL: SUPER SPORT 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/1312
+#EXTINF:0,AL: SUPER SPORT 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/1319
+#EXTINF:0,AL: SUPER SPORT 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/766a3d10/7781c6505e/1318
